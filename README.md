@@ -18,7 +18,8 @@ health bot
 ### About Us 
 
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+![Screenshot 20![WhatsApp Image 2023-06-17 at 3 24 40 AM](https://github.com/Bhavaniii17/BHAVANI/assets/119057686/94e143e4-d12a-41d2-bc18-49640736c32d)
+22-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
 
 
 ### Privacy policy -
