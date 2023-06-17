@@ -13,11 +13,9 @@ This is a web based application developed for health related telugu based websit
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 ## Screenshots
+-![WhatsApp Image 2023-06-17 at 3 06 31 AM](https://github.com/Bhavaniii17/BHAVANI/assets/119057686/b685d312-ad9c-4469-b0ec-953afccb4bb2)
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
-
-### About Us -
-
+### About Us 
 
 
 ![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
