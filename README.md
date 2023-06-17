@@ -2,7 +2,8 @@
 This is a web based application developed for health related telugu based website in india
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 **Project Link** - https://witty-water-0eafdc100.3.azurestaticapps.net
-### Azure Technologies used:
+**Project demo video link**- https://youtu.be/JZeDnygLS18
+### Azure Technologies used for project:
 static web apps,
 health bot
 ## Features and Functionalities 😃
@@ -13,7 +14,8 @@ health bot
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 ## Screenshots
--![WhatsApp Image 2023-06-17 at 3 06 31 AM](https://github.com/Bhavaniii17/BHAVANI/assets/119057686/b685d312-ad9c-4469-b0ec-953afccb4bb2)
+![WhatsApp Image 2023-06-17 at 6 28 33 AM](https://github.com/Bhavaniii17/BHAVANI/assets/119057686/5fd204c6-4fdc-4fbf-afb0-fdef98f9578c)
+![WhatsApp Image 2023-06-17 at 6 28 55 AM](https://github.com/Bhavaniii17/BHAVANI/assets/119057686/d2f1e9d3-65f7-4a05-a9d5-2015e66ff8fd)
 
 ### About Us 
 
